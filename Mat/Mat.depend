@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551809380 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\mat\main.cpp
+	<bits/stdc++.h>
+	"Matrix.h"
+
+1551807764 c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\mat\matrix.cpp
+	"Matrix.h"
+
+1551809569 c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\mat\matrix.h
+	<bits/stdc++.h>
+
+1551809597 source:c:\users\1\desktop\codeblocks\data structure\assignment 1\p1\mat\matrix.cpp
+	"Matrix.h"
+
